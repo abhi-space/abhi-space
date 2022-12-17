@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @abhi-space
-- 👀 I’m interested in data science
-- 🌱 I’m currently exploring github
+- 👋 Hi, I’m @abhi-space.
+- 👀 VLSI Physical design Engineer.
+- 👀 Loves scripting.
+- 👀 Perl,TCL & Python.
 
 
 
